@@ -20,15 +20,15 @@ This ePortfolio represents both the culmination of my academic development and a
 
 This enhancement focused on refactoring and restructuring the original thermostat application to improve modularity, readability, and maintainability. I reorganized control flow, clarified function responsibilities, and improved documentation to align with professional software engineering standards. The result is a cleaner, more extensible system that better supports future feature expansion and testing.
 
-[(https://github.com/cduhamel20/CS-499/blob/main/Thermostat.py)]
-[(https://github.com/cduhamel20/CS-499/blob/main/Thermostat_Updated.zip)]
+Original - [(https://github.com/cduhamel20/CS-499/blob/main/Thermostat.py)]
+Updated - [(https://github.com/cduhamel20/CS-499/blob/main/Thermostat_Updated.zip)]
 
 # Enhancement Two – Algorithms & Data Structures
 
 This enhancement emphasized improving algorithmic structure and performance awareness within the application. I analyzed data handling and control logic to ensure efficient processing and clearer data organization. The updated implementation reflects stronger application of algorithmic principles and improved scalability while maintaining correctness.
 
-[(https://github.com/cduhamel20/CS-499/blob/main/Thermostat.py)]
-[(https://github.com/cduhamel20/CS-499/blob/main/Thermostat_updated_2.zip)]
+Original - (https://github.com/cduhamel20/CS-499/blob/main/Thermostat.py)]
+Updated - [(https://github.com/cduhamel20/CS-499/blob/main/Thermostat_updated_2.zip)]
 
 ---
 
@@ -36,5 +36,5 @@ This enhancement emphasized improving algorithmic structure and performance awar
 
 This enhancement introduced structured SQLite logging to add persistent data storage to the thermostat system. I designed a relational schema, integrated database operations into the application workflow, and enabled time-series logging for temperature and system state. This transformed the project from a real-time controller into a traceable and analyzable system with persistent data support.
 
-[(https://github.com/cduhamel20/CS-499/blob/main/Thermostat.py)]
-[(https://github.com/cduhamel20/CS-499/blob/main/Thermostat_updated_3.zip)]
+Original - (https://github.com/cduhamel20/CS-499/blob/main/Thermostat.py)]
+Updated - [(https://github.com/cduhamel20/CS-499/blob/main/Thermostat_updated_3.zip)]
