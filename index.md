@@ -6,8 +6,54 @@ Southern New Hampshire University
 
 # Professional Self-Assessment
 
-My professional focus centers on systems engineering, embedded software, and secure system design. I am particularly interested in environments where software interacts directly with hardware and operational constraints. This capstone demonstrates that I can design, analyze, secure, and improve computing systems in a structured and professional manner.
+# Chandler Duhamel  
+## Bachelor of Science in Computer Science  
+Southern New Hampshire University  
+
+---
+
+Completing the Computer Science program at Southern New Hampshire University strengthened both my technical foundation and my professional direction. Throughout this program, I developed practical experience in software engineering, algorithms, databases, testing, and secure coding. This ePortfolio reflects measurable growth in my ability to design, evaluate, and improve computing solutions that deliver real value.
+
+The artifacts included represent progression rather than isolated coursework. Each enhancement demonstrates refinement, structured thinking, and professional-level improvement.
+
+---
+
+## Technical Growth
+
+In CS 350, I developed and enhanced an embedded thermostat application. Through refactoring and modular redesign, I improved maintainability, control flow clarity, and system structure. The database enhancement added structured SQLite logging, transforming the project from a real-time controller into a traceable system capable of persistent data analysis. This required schema design, query integration, and clean separation between application logic and storage.
+
+My algorithm-focused enhancement strengthened my ability to evaluate performance and data organization. I analyzed efficiency tradeoffs and improved implementation clarity while maintaining correctness. This reinforced the importance of designing solutions that are both functional and scalable.
+
+Coursework in secure coding and reverse engineering strengthened my security mindset. I now approach development with proactive consideration of input validation, error handling, surface exposure, and system resilience. Security is no longer an afterthought but an integrated design principle.
+
+---
+
+## Collaboration and Communication
+
+Throughout the program, I developed the ability to communicate technical decisions clearly to both technical and non-technical audiences. Producing structured documentation and a code review video required articulating design choices, identifying improvement areas, and justifying tradeoffs. These communication skills are essential in collaborative engineering environments where clarity directly impacts decision-making and implementation quality.
+
+---
+
+## Integrated Skill Set
+
+Together, the software engineering, algorithm, and database enhancements demonstrate my ability to:
+
+- Design and refactor structured systems  
+- Apply algorithmic principles to real implementations  
+- Integrate persistent data storage  
+- Maintain secure coding practices  
+- Deliver professional-quality technical communication  
+
+These artifacts collectively reflect a systems-oriented approach rather than isolated programming exercises.
+
+---
+
+## Professional Direction
+
+My professional focus centers on systems engineering, embedded software, and secure system design. I am particularly interested in environments where software interacts directly with hardware and operational constraints. This capstone demonstrates my ability to design, analyze, secure, and improve computing systems in a structured and professional manner.
+
 This ePortfolio represents both the culmination of my academic development and a foundation for continued growth in the computer science field.
+
 
 
 ---
